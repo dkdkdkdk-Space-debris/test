@@ -1,1 +1,9 @@
-trah star fleet
+   embed = discord.Embed(
+       title='Trash Star Fleet',
+       description='쓰레기들의 모임',
+       colour=discord.Colour.dark_gold()
+   )
+   embed.set_author(name='Trash Star Fleet',
+                    icon_url='https://cdn.discordapp.com/attachments/695628083801358396/708318261611200623/300x300orang.png')
+   embed.set_image(
+       url='https://cdn.discordapp.com/attachments/695628083801358396/708318261611200623/300x300orang.png')
